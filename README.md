@@ -23,3 +23,7 @@ Editor for html canvas
 </body>
 </html>
 ```
+
+![alt tag](https://github.com/null-none/canvasEditor/blob/master/images/2015-07-17_2318.png)
+
+![alt tag](https://github.com/null-none/canvasEditor/blob/master/images/2015-07-17_2319.png)
